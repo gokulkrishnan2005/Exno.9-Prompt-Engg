@@ -46,9 +46,3 @@ Saved each generated video and compared the effects of prompt structure, tone, a
 
 
 
-
-
-
-
-# Result:
-
